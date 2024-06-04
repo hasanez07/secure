@@ -1,0 +1,2 @@
+# secure
+Gizlilik politikası
